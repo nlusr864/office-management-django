@@ -1,2 +1,2 @@
 # office-management-django
-management app
+management app for office
